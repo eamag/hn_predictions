@@ -1,0 +1,7 @@
+pandas
+numpy
+clickhouse-connect
+ipython-autotime
+sqlite3
+tqdm
+jupyterlab
